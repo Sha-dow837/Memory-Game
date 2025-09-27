@@ -1,0 +1,1 @@
+The computer shows you a sequence of random numbers from 1 to 9. You must repeat the sequence exactly. Each round, the sequence grows longer by one number. The challenge continues until you make a mistake, and your highest round reached is your score.
