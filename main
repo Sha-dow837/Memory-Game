@@ -1,0 +1,51 @@
+#!/usr/bin/env python3
+"""
+Simple Memory Game.
+
+How to play:
+- The computer shows you a random sequence of numbers (1–9).
+- You must repeat the sequence correctly.
+- Each round, the sequence gets longer by one number.
+- The game ends when you make a mistake.
+"""
+
+import random
+import time
+import os
+
+
+def clear_screen():
+    # Works for Windows and Unix
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+
+def main():
+    print("Welcome to the Memory Game!")
+    print("Try to remember the sequence of numbers.\n")
+    sequence = []
+    round_num = 0
+
+    while True:
+        round_num += 1
+        sequence.append(str(random.randint(1, 9)))
+        print(f"Round {round_num}: Watch carefully!")
+        print(" ".join(sequence))
+        time.sleep(2)
+        clear_screen()
+
+        guess = input("Enter the sequence: ").strip().replace(" ", "")
+        if guess == "".join(sequence):
+            print("Correct! Get ready for the next round.\n")
+            time.sleep(1)
+            clear_screen()
+        else:
+            print(f"Wrong! The correct sequence was: {' '.join(sequence)}")
+            print(f"You reached round {round_num}.")
+            break
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except (KeyboardInterrupt, EOFError):
+        print("\nGoodbye!")
